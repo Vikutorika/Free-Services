@@ -2,7 +2,7 @@
 
 ## PaaS服务
 
-- Railway https://railway.app 一个月21天（比heroku好用但是又类似，只能说他的政策好改好吧，不推荐）
+- Railway https://railway.app 一个月21天（比heroku好用但是又类似，只能说他的政策改得真NM好好吧，不推荐）
 - Heroku https://heroku.com 改了Pricing方案后极其不推荐
 - Divio https://divio.com 没用过，据说很好用
 - Patr https://patr.cloud 免费额度5$，可开 1vCPU + 512MB 存储未知（青龙可以放上面跑），不支持自定义域名
