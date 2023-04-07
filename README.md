@@ -12,6 +12,7 @@
 ## 托管服务？（不知道该叫啥了）
 
 - Vercel https://vercel.com 这个应该都知道吧……
+- Netify https://www.netlify.com 类似于Vercel
 - Cloudflare Pages https://cloudflare.com 自带的域名被墙，要用自定义域名
 - Replit https://repl.it 一个在线IDE，但是可以通过高频率访问达到保活的目的
 
@@ -21,6 +22,21 @@
 
 - Linuxone https://linuxone.cloud.marist.edu IBM家的服务器，架构是`s390x`，对服务器占用的限制看得很严，我之前编译个东西都给我封了，注册信息随便填，强制公私钥链接（就是不能账号密码），3个月有效，据说邮件续期，配置见图
   - ![image](https://user-images.githubusercontent.com/28426291/230571639-7a050d26-ce45-425d-b19d-457b138b4073.png)
+
+## 数据库
+
+### Mongodb
+
+- https://www.mongodb.com/cloud/atlas/register 官方的，512MB存储，RAM共享，可开地区很多（自己去看）
+
+### Redis
+
+- Upstash https://upstash.com/ 一个账号可开5个数据库（5个组织，每个组织一个），日2k条命令，也提供Kafka和qstash服务（这两个不会用）
+
+## CDN
+
+- Cloudflare https://cloudflare.com 大牌厂商懂得都懂
+- Gcore https://gcore.com 好像被墙完了都……
 
 ## 有推荐
 
