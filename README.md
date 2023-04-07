@@ -9,7 +9,7 @@
 - Koyeb https://www.koyeb.com 月免费5.5$，可开 1vCPU + 512MB + 5GB （或者折半开两个实例），支持自定义域名（1个），就体验来说不好，**要求每14天内登陆一次该平台否则暂停容器**
 - zeabur http://zeabur.com 超级推荐，服务器是台北的，之前在Twikoo群里见到过老板，**国人做的，别滥用人家的**
 
-## 托管服务？
+## 托管服务？（不知道该叫啥了）
 
 - Vercel https://vercel.com 这个应该都知道吧……
 - Cloudflare Pages https://cloudflare.com 自带的域名被墙，要用自定义域名
