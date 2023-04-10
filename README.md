@@ -7,7 +7,7 @@
 - Railway https://railway.app 一个月21天（比heroku好用但是又类似，只能说他的政策改得真NM好好吧，不推荐）
 - Heroku https://heroku.com 改了Pricing方案后极其不推荐
 - Divio https://divio.com 没用过，据说很好用
-- Patr https://patr.cloud 免费额度5$，可开 1vCPU + 512MB 存储未知（青龙可以放上面跑），不支持自定义域名，**30分钟无访问自动重启容器**
+- Patr https://patr.cloud 免费额度5$，可开 1vCPU + 512MB 存储未知（青龙可以放上面跑），不支持自定义域名（可以用Vercel反代解决[文档见此](https://bili33.top/posts/vercel-reverse-proxy/)），**30分钟无访问自动重启容器**
 - Koyeb https://www.koyeb.com 月免费5.5$，可开 1vCPU + 512MB + 5GB （或者折半开两个实例），支持自定义域名（1个），就体验来说不好，**要求每14天内登陆一次该平台否则暂停容器**
 - zeabur http://zeabur.com 超级推荐，服务器是台北的，之前在Twikoo群里见到过老板，**国人做的，别滥用人家的**
 
@@ -16,7 +16,7 @@
 - Vercel https://vercel.com 这个应该都知道吧……
 - Netify https://www.netlify.com 类似于Vercel
 - Cloudflare Pages https://cloudflare.com 自带的域名被墙，要用自定义域名
-- Replit https://repl.it 一个在线IDE，但是可以通过高频率访问达到保活的目的
+- Replit https://repl.it 一个在线IDE，但是可以通过高频率访问达到保活的目的（可以试试去白嫖它家的EDU服务，一开始不会让你验证东西的，只不过可能用一段时间就跟你说要验证，不验证的话额度跟个人账户一样）
 
 ## 服务器
 
