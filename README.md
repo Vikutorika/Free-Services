@@ -1,5 +1,7 @@
 # Free Services
 
+- 机场白嫖推荐走这里 https://airports.share4nothing.cf/
+
 ## PaaS服务
 
 - Railway https://railway.app 一个月21天（比heroku好用但是又类似，只能说他的政策改得真NM好好吧，不推荐）
