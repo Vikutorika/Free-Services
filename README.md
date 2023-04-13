@@ -54,4 +54,4 @@
 
 ## 有推荐
 
-发送邮件到[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)即可
+发送邮件到[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，或者直接提交PR
