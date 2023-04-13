@@ -44,6 +44,14 @@
 
 - https://developer.microsoft.com/en-us/microsoft-365/dev-program 微软官方E5开发者版（应该都听说过吧，不过2023.4.5微软遣散了一堆白嫖党，反正我是没有幸免）
 
+## Uptime服务
+
+- 半夜临时想到的，睡醒了补
+
+## Pages服务
+
+- 也是半夜想的，睡醒了补
+
 ## 有推荐
 
 发送邮件到[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)即可
