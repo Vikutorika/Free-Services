@@ -52,6 +52,10 @@
 
 - 也是半夜想的，睡醒了补
 
+## 免费域名（虽然应该不差这个钱但我还是写上吧）
+
+- 睡醒了补
+
 ## 有推荐
 
 发送邮件到[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，或者直接提交PR
