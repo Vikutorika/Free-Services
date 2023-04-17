@@ -46,15 +46,19 @@
 
 ## Uptime服务
 
-- 半夜临时想到的，睡醒了补
+- https://uptimerobot.com 算元老级别了吧，支持Status Page但不支持自定义域名，协议多样（http,tcp,udp等）
+- https://betterstack.com/better-uptime 这个也挺不错，但是没有那么多协议，支持Status Page且有自定义域名
 
 ## Pages服务
 
-- 也是半夜想的，睡醒了补
+- https://github.com 大名鼎鼎的Github Pages，非pro可以在公共仓库建立pages，pro用户公私均可（富哥V50），域名为`github.io`，某些地区会被阻断
+- https://cloudflare.com Cloudflare Pahes服务，有点像vercel那种但不完全是，自带的`pages.dev`被墙，需自配域名
+- https://gitee.com **国内的垃圾服务** 不支持自定义域名，自带域名`.gitee.io`，**有内容审查，需实名！！！**
 
 ## 免费域名（虽然应该不差这个钱但我还是写上吧）
 
-- 睡醒了补
+- https://freenom.com 提供`.tk` `.ga` `.ml` `.cf` `.gq`域名注册，但成不成功全靠运气
+- https://nic.eu.org 提供`.eu.org`域名注册，比较麻烦，而且要等
 
 ## 有推荐
 
