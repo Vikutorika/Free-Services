@@ -24,6 +24,8 @@
 
 - Linuxone https://linuxone.cloud.marist.edu IBM家的服务器，架构是`s390x`，对服务器占用的限制看得很严，我之前编译个东西都给我封了，注册信息随便填，强制公私钥链接（就是不能账号密码），3个月有效，据说邮件续期，配置见图
   - ![image](https://user-images.githubusercontent.com/28426291/230571639-7a050d26-ce45-425d-b19d-457b138b4073.png)
+  - 续费邮件 ![image](https://user-images.githubusercontent.com/28426291/235694279-6e61d8b2-e95c-40f5-b797-66747c06cea5.png)
+  - 续费链接（仅供参考） https://linuxone.cloud.marist.edu/#/extendaccount?token=zSm3a6k3sqwXM0xkD5UknWpRjgZxch%2BgBNXp12mzKV7UnJRCO8F9kbSvufmrcrSt
 
 ## 数据库
 
