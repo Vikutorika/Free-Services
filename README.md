@@ -62,6 +62,11 @@
 - https://freenom.com 提供`.tk` `.ga` `.ml` `.cf` `.gq`域名注册，但成不成功全靠运气
 - https://nic.eu.org 提供`.eu.org`域名注册，比较麻烦，而且要等
 
+## ChatGPT服务
+
+- https://chat.openai.com 官网，要梯子的，注册账号有难度
+- https://poe.com 有多种可选，ChatGPT-4 (1msg/d)/Claude+ (3msg/d)/Claude-instant/ChatGPT-3.5/NeevaAI/Dragonfly，如果用GPT3.5是够用的，可以Google登录
+
 ## 有推荐
 
 发送邮件到[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，或者直接提交PR
