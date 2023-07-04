@@ -9,7 +9,8 @@
 - Divio https://divio.com 配置为 `512MB + 5G存储 + 5G备份 + 1G数据库 + 10G流量`，地区只有北美，**无自定义域名，需要信用卡**，感觉不太好用
 - Patr https://patr.cloud 免费额度5$，可开 `1vCPU + 512MB` 存储未知（青龙可以放上面跑），不支持自定义域名（可以用Vercel反代解决[文档见此](https://bili33.top/posts/vercel-reverse-proxy/)），**30分钟无访问自动重启容器**
 - Koyeb https://www.koyeb.com 月免费5.5$，可开 `1vCPU + 512MB + 5GB` （或者折半开两个实例），支持自定义域名（1个），就体验来说不好，**要求每14天内登陆一次该平台否则暂停容器**
-- zeabur http://zeabur.com 超级推荐，服务器是台北的GCP，之前在Twikoo群里见到过老板，目前在给人家平台排bug，**国人做的，别滥用人家的**
+- zeabur http://zeabur.com 超级推荐，服务器是台北的GCP，需要每7天去平台打卡（貌似可以脚本解决但我还没写），可以支付宝，**国人做的，别滥用人家的**
+- Render https://render.com 每月750小时免费（一个实例够一个月的），月流量1T
 
 ## 托管服务？（不知道该叫啥了）
 
