@@ -17,7 +17,7 @@
 - Vercel https://vercel.com 这个应该都知道吧……
 - Netify https://www.netlify.com 类似于Vercel
 - Cloudflare Pages https://cloudflare.com 自带的域名被墙，要用自定义域名
-- Replit https://repl.it 一个在线IDE，但是可以通过高频率访问达到保活的目的，个人账户配置为 `0.5vCPU + 512MB RAM + 1GB 存储`（可以试试去白嫖它家的EDU服务 `2vCPU + 2GB RAM + 1GB 存储`，一开始不会让你验证东西的，只不过可能用一段时间就跟你说要验证，不验证的话额度跟个人账户一样）
+- ~~Replit https://repl.it 一个在线IDE，但是可以通过高频率访问达到保活的目的，个人账户配置为 `0.5vCPU + 512MB RAM + 1GB 存储`（可以试试去白嫖它家的EDU服务 `2vCPU + 2GB RAM + 1GB 存储`，一开始不会让你验证东西的，只不过可能用一段时间就跟你说要验证，不验证的话额度跟个人账户一样）~~ 
 
 ## 服务器
 
