@@ -9,7 +9,6 @@
 - Divio https://divio.com 配置为 `512MB + 5G存储 + 5G备份 + 1G数据库 + 10G流量`，地区只有北美，**无自定义域名，需要信用卡**，感觉不太好用
 - Patr https://patr.cloud 免费额度5$，可开 `1vCPU + 512MB` 存储未知（青龙可以放上面跑），不支持自定义域名（可以用Vercel反代解决[文档见此](https://bili33.top/posts/vercel-reverse-proxy/)），**30分钟无访问自动重启容器**
 - Koyeb https://www.koyeb.com 月免费5.5$，可开 `1vCPU + 512MB + 5GB` （或者折半开两个实例），支持自定义域名（1个），就体验来说不好，**要求每14天内登陆一次该平台否则暂停容器**
-- zeabur [https://zeabur.com](https://zeabur.com?referralCode=GamerNoTitle) 超级推荐，服务器是台北的GCP，需要每7天去平台打卡（貌似可以脚本解决但我还没写），可以支付宝，**国人做的，别滥用人家的**
 - Render https://render.com 每月750小时免费（一个实例够一个月的），月流量1T
 
 ## 托管服务？（不知道该叫啥了）
@@ -18,6 +17,7 @@
 - Netify https://www.netlify.com 类似于Vercel
 - Cloudflare Pages https://cloudflare.com 自带的域名被墙，要用自定义域名
 - ~~Replit https://repl.it 一个在线IDE，但是可以通过高频率访问达到保活的目的，个人账户配置为 `0.5vCPU + 512MB RAM + 1GB 存储`（可以试试去白嫖它家的EDU服务 `2vCPU + 2GB RAM + 1GB 存储`，一开始不会让你验证东西的，只不过可能用一段时间就跟你说要验证，不验证的话额度跟个人账户一样）~~ 
+- zeabur [https://zeabur.com](https://zeabur.com?referralCode=GamerNoTitle) 不绑卡可以部署serverless应用，可以支付宝，**国人做的，别滥用人家的**
 
 ## 服务器
 
