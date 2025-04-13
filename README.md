@@ -1,6 +1,6 @@
 # Free Services
 
-- 机场白嫖推荐走这里 https://airports.share4nothing.cf/
+- 机场白嫖推荐走这里 https://github.com/Vikutorika/Airports
 
 ## PaaS服务
 
