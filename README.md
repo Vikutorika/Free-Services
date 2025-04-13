@@ -9,7 +9,8 @@
 - Divio https://divio.com 配置为 `512MB + 5G存储 + 5G备份 + 1G数据库 + 10G流量`，地区只有北美，**无自定义域名，需要信用卡**，感觉不太好用
 - Patr https://patr.cloud 免费额度5$，可开 `1vCPU + 512MB` 存储未知（青龙可以放上面跑），不支持自定义域名（可以用Vercel反代解决[文档见此](https://bili33.top/posts/vercel-reverse-proxy/)），**30分钟无访问自动重启容器**
 - Koyeb https://www.koyeb.com 月免费5.5$，可开 `1vCPU + 512MB + 5GB` （或者折半开两个实例），支持自定义域名（1个），就体验来说不好，**要求每14天内登陆一次该平台否则暂停容器**
-- Render https://render.com 每月750小时免费（一个实例够一个月的），月流量1T
+- Render https://render.com 每月750小时免费（一个实例够一个月的），月流量1T**（要信用卡了！！！）**
+- ClawCloud https://console.run.claw.cloud/signin?link=OVEMFCRQB95I 每个月有 5$ 的额度，可以开 0.5Cores + 1G Memory 的机子（再多就超 5$ 的额度了），可以跑docker，流量费用另算（上面这个配置月 4.2$，剩下的可以拿来算流量，每个月 10G 免费，后面 0.05$/GB）
 
 ## 托管服务？（不知道该叫啥了）
 
