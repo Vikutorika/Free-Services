@@ -40,6 +40,10 @@
 - Upstash https://upstash.com/ 一个账号可开5个数据库（5个组织，每个组织一个），日2k条命令，也提供Kafka和qstash服务（这两个不会用）
 - RedisLabs https://app.redislabs.com/ 可开一个Redis数据库（从AWS、GCP、Azure选），限制30MB存储和30个同时连接数量
 
+### Postgres
+
+- Neondb https://console.neon.tech/ 免费账户提供总共 0.5GB 数据库大小，月提供 191.9hrs 计算时和 5GB 流量
+
 ## CDN
 
 - Cloudflare https://cloudflare.com 大牌厂商懂得都懂
