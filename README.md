@@ -15,7 +15,6 @@
 - Vercel https://vercel.com 这个应该都知道吧……
 - Netify https://www.netlify.com 类似于Vercel
 - Cloudflare Pages https://cloudflare.com 自带的域名被墙，要用自定义域名
-- ~~Replit https://repl.it 一个在线IDE，但是可以通过高频率访问达到保活的目的，个人账户配置为 `0.5vCPU + 512MB RAM + 1GB 存储`（可以试试去白嫖它家的EDU服务 `2vCPU + 2GB RAM + 1GB 存储`，一开始不会让你验证东西的，只不过可能用一段时间就跟你说要验证，不验证的话额度跟个人账户一样）~~ 
 - zeabur [https://zeabur.com](https://zeabur.com?referralCode=GamerNoTitle) 不绑卡可以部署serverless应用，可以支付宝，**国人做的，别滥用人家的**
 
 ## 服务器
@@ -68,7 +67,6 @@
 
 - https://github.com 大名鼎鼎的Github Pages，非pro可以在公共仓库建立pages，pro用户公私均可（富哥V50），域名为`github.io`，某些地区会被阻断
 - https://cloudflare.com Cloudflare Pahes服务，有点像vercel那种但不完全是，自带的`pages.dev`被墙，需自配域名
-- ~~https://gitee.com **国内的垃圾服务** 不支持自定义域名，自带域名`.gitee.io`，**有内容审查，需实名！！！**~~（似了）
 - https://edgeone.ai 腾讯云的 edgeone 国际版，额度嘛，自己看吧 =-=
 
 ## 有推荐？
