@@ -12,7 +12,7 @@
 - Render https://render.com 每月750小时免费（一个实例够一个月的），月流量1T**（要信用卡了！！！）**
 - ClawCloud https://console.run.claw.cloud/signin?link=OVEMFCRQB95I 使用 Github 登录后每个月有 5$ 的额度（需要 Github 账号年龄大于6个月，如果不用 Github 登录的话只有第一个月有 5$ 额度），可以开 0.5Cores + 1G Memory 的机子（再多就超 5$ 的额度了），可以跑docker，流量费用另算（上面这个配置月 4.2$，剩下的可以拿来算流量，每个月 10G 免费，后面 0.05$/GB）
 
-## 托管服务？（不知道该叫啥了）
+## Serverless
 
 - Vercel https://vercel.com 这个应该都知道吧……
 - Netify https://www.netlify.com 类似于Vercel
@@ -43,11 +43,17 @@
 ### Postgres
 
 - Neondb https://console.neon.tech/ 免费账户提供总共 0.5GB 数据库大小，月提供 191.9hrs 计算时和 5GB 流量
+- Prisma https://prisma.io 提供 5 个数据库 + 总共 500MB 的免费额度
+
+### MySQL Compatible
+
+- TiDB https://tidbcloud.com 提供 5GB 免费额度空间，官方说法兼容 MySQL 协议和 MySQL 生态等重要特性
 
 ## CDN
 
 - Cloudflare https://cloudflare.com 大牌厂商懂得都懂
 - Gcore https://gcore.com 好像被墙完了都……
+- https://edgeone.ai 腾讯云的 edgeone 国际版，额度嘛，自己看吧 =-=
 
 ## Office套件
 
@@ -65,6 +71,7 @@
 - https://github.com 大名鼎鼎的Github Pages，非pro可以在公共仓库建立pages，pro用户公私均可（富哥V50），域名为`github.io`，某些地区会被阻断
 - https://cloudflare.com Cloudflare Pahes服务，有点像vercel那种但不完全是，自带的`pages.dev`被墙，需自配域名
 - ~~https://gitee.com **国内的垃圾服务** 不支持自定义域名，自带域名`.gitee.io`，**有内容审查，需实名！！！**~~（似了）
+- https://edgeone.ai 腾讯云的 edgeone 国际版，额度嘛，自己看吧 =-=
 
 ## 有推荐？
 
