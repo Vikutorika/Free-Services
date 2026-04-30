@@ -10,6 +10,7 @@
 - Render https://render.com 每月750小时免费（一个实例够一个月的），月流量1T**（要信用卡了！！！）**
 - ~~ClawCloud https://console.run.claw.cloud/signin?link=OVEMFCRQB95I 使用 Github 登录后每个月有 5$ 的额度（需要 Github 账号年龄大于6个月，如果不用 Github 登录的话只有第一个月有 5$ 额度），可以开 0.5Cores + 1G Memory 的机子（再多就超 5$ 的额度了），可以跑docker，流量费用另算（上面这个配置月 4.2$，剩下的可以拿来算流量，每个月 10G 免费，后面 0.05$/GB）~~ Clawcloud 可能会倒闭，但它不会变质，它做到了，R.I.P.（Respect!）
 https://question.run.claw.cloud/questions/10010000000003261
+- apply.build https://apply.build 每个账号可以部署一个 `0.5vCPU + 512MB` 的实例，无需信用卡，不限时间，不会因为无流量下线，固定位置欧洲，可以绑定自定义域名
 
 ## Serverless
 
